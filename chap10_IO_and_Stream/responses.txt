@@ -1,0 +1,9 @@
+ABCDE
+Frank
+ABCDE
+Larry
+ABCAC
+Moe
+BBDEC
+Curly
+BBAAE
